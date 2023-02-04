@@ -11,6 +11,6 @@ As part of my learning process, I have launched several projects (or visit my [w
   - :newspaper: **Minting Performance "Mencari Kabar"** | :page_facing_up:	[Smart Contract 1](https://ftmscan.com/address/0xaf4dfeebdb51f829743c792872d1f38edd521925) | [Smart Contract 2](https://ftmscan.com/address/0x5d621ecf3f80debfce22794f7be26b32764a370a)
   - :classical_building: **Bandung Conference** | [Mint Site](https://bandungconference.vercel.app/) | :page_facing_up:	[Smart Contract](https://ftmscan.com/address/0xB8B4034B0B852eA9550d995A33A716b97E70f227)
   - :coin: **fungibleArt (fART)** | [DEX](https://spooky.fi/#/add/FTM/0x0378da868aD8BC4E1A4DbE3138B158eF5d980C1a) :page_facing_up:	| [Smart Contract](https://ftmscan.com/address/0x0378da868ad8bc4e1a4dbe3138b158ef5d980c1a#writeContract).
-
+  - :coin: **ShibaPoconkToken (CONK)** | [DEX](https://v1.beets.fi/#/lge/0x96a0bc8836b55e055276bf594f30bde8f00dc3cb0002000000000000000005fe) :page_facing_up:	| [Smart Contract](https://ftmscan.com/address/0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e).
 
 - 💬 You can reach me on [Twitter](https://twitter.com/fantompocong).
